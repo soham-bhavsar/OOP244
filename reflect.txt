@@ -1,0 +1,6 @@
+/*
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*/
+
+From this workshop, I learned how to effectively modularize my project. Before, I used a single file for all my code, making it difficult to organize and maintain. I often felt lost when working on larger projects. For instance, during the OOP Milestone 3, even with three provided modules, one source file had over a thousand lines of code. Now, I understand that I can create separate modules such as a utility module, a patient module, and an appointment module to better organize my code. The utility module can contain functions for sorting and finding, while the patient and appointment modules can handle their specific code. Additionally, I would implement namespaces (though not supported in C) in future projects. This workshop taught me how to categorize my code into different namespaces, reducing concerns about naming conflicts and visibility issues.
+
